@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HandBagTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-06-11T18:18:45" hostname="Jaspreets-MBP.ht.home" time="0.005">
+<testsuite name="HandBagTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-06-11T18:22:15" hostname="Jaspreets-MBP.ht.home" time="0.02">
   <properties/>
-  <testcase name="TestSetColor" classname="HandBagTest" time="0.001"/>
-  <testcase name="testGetColor" classname="HandBagTest" time="0.0"/>
-  <testcase name="TestEnhance" classname="HandBagTest" time="0.0"/>
+  <testcase name="TestSetColor" classname="HandBagTest" time="0.004"/>
+  <testcase name="testGetColor" classname="HandBagTest" time="0.002"/>
+  <testcase name="TestEnhance" classname="HandBagTest" time="0.002"/>
   <testcase name="TestGetCapacity" classname="HandBagTest" time="0.001"/>
-  <testcase name="TestIncreaseCapacity" classname="HandBagTest" time="0.0"/>
-  <testcase name="testGetNumberOfContentsPop" classname="HandBagTest" time="0.001"/>
-  <testcase name="testGetNumberOfContentsNonEmpty" classname="HandBagTest" time="0.0"/>
+  <testcase name="TestIncreaseCapacity" classname="HandBagTest" time="0.003"/>
+  <testcase name="testGetNumberOfContentsPop" classname="HandBagTest" time="0.002"/>
+  <testcase name="testGetNumberOfContentsNonEmpty" classname="HandBagTest" time="0.003"/>
   <testcase name="testGetNumberOfContentsEmpty" classname="HandBagTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
